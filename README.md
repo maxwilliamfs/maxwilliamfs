@@ -5,7 +5,7 @@ Em busca da minha primeira oportunidade de estágio em Engenharia de Software / 
 
 ## Tecnologias e Ferramentas
 
-- **Linguagens:** Python, C, GDScript.
+- **Linguagens:** Python, C, Java, GDScript.
 - **Backend & Arquitetura:** FASTful APIs, Web Scraping (Selenium).
 - **Bancos de Dados:** MongoDB (NoSQL).
 - **Infraestrutura & DevOps:** Docker, Docker Compose, Arch Linux.
