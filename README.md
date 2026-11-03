@@ -18,6 +18,7 @@ Em busca da minha primeira oportunidade de estágio em Engenharia de Software / 
 - **[Mini-Kernel](https://github.com/maxwilliamfs/Mini-Kernel):** Simulador de sistema operacional em C com gerenciamento de recursos e processos.
 - **[HuffmanCompress](https://github.com/maxwilliamfs/HuffmanCompress):** Compressor e descompressor de arquivos `.txt` em C utilizando árvores binárias.
 - **[Demake-Souls-2](https://github.com/maxwilliamfs/Demake-Souls-2):** Action RPG 2D Souls-like em GDScript.
+- **[MedSystem](https://github.com/maxwilliamfs/MedSystem):** Simulador de sistema hospitalar com CRUD em Java.
 
 ## Contato
 
