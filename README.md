@@ -1,6 +1,7 @@
 # Prazer, Max William! 
 
-Estudante de Ciência da Computação na UFAPE (Universidade Federal do Agreste de Pernambuco)
+Estudante de Ciência da Computação na UFAPE (Universidade Federal do Agreste de Pernambuco).
+
 Em busca da minha primeira oportunidade de estágio em Engenharia de Software / Backend.
 
 ## Tecnologias e Ferramentas
