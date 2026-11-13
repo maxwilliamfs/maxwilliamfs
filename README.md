@@ -11,6 +11,7 @@ Em busca da minha primeira oportunidade de estágio em Engenharia de Software / 
 - **Bancos de Dados:** MongoDB (NoSQL).
 - **Infraestrutura & DevOps:** Docker, Arch Linux.
 - **Versionamento:** Git & GitHub.
+- **Testes:** pytest
 
 ## Projetos em Destaque
 
